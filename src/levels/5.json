@@ -1,0 +1,725 @@
+{
+  "level": [
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 0
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 1
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 2
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 3
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 4
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 5
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 6
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 7
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 8
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 9
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 10
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 11
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 12
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 13
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 14
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 15
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 16
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 17
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 18
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 19
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 20
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 21
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 22
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 23
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 24
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 25
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 26
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 27
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 28
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 29
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 30
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 31
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 32
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 33
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 34
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 35
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 36
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 37
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 38
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 39
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 40
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 41
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 42
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 43
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 44
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 45
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 46
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 47
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 48
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 49
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 50
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 51
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 52
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 53
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 54
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 55
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 56
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 57
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 58
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 59
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 60
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 61
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 62
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 63
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 64
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 65
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 66
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 67
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 68
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 69
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 70
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 71
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 72
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 73
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 74
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 75
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 76
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 77
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 78
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 79
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 80
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 81
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 82
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 83
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 84
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 85
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 86
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 87
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 88
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 89
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 90
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 91
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 92
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 93
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 94
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 95
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 96
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 97
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 98
+      },
+      {
+        "type": true,
+        "checkBox":false,
+        "content":0,
+        "flags": false,
+        "key": 99
+      }
+    ]
+  ],
+  "minMines": 10
+}

@@ -1,0 +1,212 @@
+{
+  "level": [
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 0
+      },
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 1
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 10
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 20
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 30
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 40
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 50
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 60
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 70
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 80
+      }
+    ],
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 90
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 100
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 110
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 120
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 130
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 140
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 150
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 160
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 170
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 180
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 190
+      }
+    ]
+  ,
+    [
+      {
+        "type": true,
+        "checkBox": false,
+        "content": 0,
+        "flags": false,
+        "key": 200
+      }
+    ]
+  ],
+  "minMines": 5
+}
